@@ -70,5 +70,5 @@ Authorization: 'bearer <TOKEN_ID>',
 
 **Marley**
 
-Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>
+Any questions in english: <a href="https://jsdev.org/chat/">Telegram Chat</a>  
 Любые вопросы на русском: <a href="https://jsdev.ru/chat/">Телеграм чат</a>
